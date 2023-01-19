@@ -4,11 +4,11 @@
       {
         "BannerAd": "max",
 		"InterstitialAd": "admob",
-        "NativeAd": "admob",
+        "NativeAd": "max",
 		
-		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		"BannerAdmob": "ca-app-pub-6190614818068242/8961498631",
+        "InterstitialAdmob": "ca-app-pub-6190614818068242/2603957937",
+        "NativeAdmob": "ca-app-pub-6190614818068242/6335335299",
 
         "BannerFacebook": "",
         "InterstitialFacebook": "",
@@ -37,7 +37,7 @@
         "image": "https://games.lol/wp-content/uploads/2021/09/sakura-and-boy-smiling.jpg",
         "color": "#FFFFFF",
         "text_size": "25",
-        "isLink": true,
+        "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
