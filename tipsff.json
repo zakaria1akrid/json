@@ -1,0 +1,116 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "max",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-6190614818068242/4949600423",
+        "InterstitialAdmob": "ca-app-pub-6190614818068242/3153318935",
+        "NativeAdmob": "ca-app-pub-6190614818068242/7961672922",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "a81221136468903f",
+		"maxInterstitial": "fa7c4430e733c50b",
+		"maxNative": "70356623f58c163e",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Change Controls For Convenience",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Full-view-of-controls-in-Free-Fire.jpg",
+        "color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "In Free Fire, players actually have a means of changing the way things are laid out on the screen, allowing them to place buttons precisely where they want to be for the sake of convenience. This can become extremely handy for players who want to take their battle royale experience more seriously, as an optimized control layout can help them reach for certain commands much faster. For instance, stealth players might want to keep the crouch and sneak buttons nearer to the right stick for easy access. Likewise, marksmen would want to keep the trigger button and ADS button much closer to ensure they get the jump on enemies much faster.",
+        "isNative": false,
+		"background": "#B6B6B4"
+      },
+      {
+        "title": "Get Passive To Survive The Longest",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/A-player-exploring-the-area.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Perhaps the most practical playstyle in Free Fire lies in its origins: it plays like most battle royales. As such, a great tip to survive most first matches in the game is to play it passively instead of aggressively. Unless players want to train using particular weapons or combat mechanics, camping and waiting for player teams to die out before dashing for the final showdown is a reasonable course of action.  Players can do this easily by trying to get to the middle section that lies in between the inner and outer reaches of the map’s safe zone. This ensures that players stay safe from danger zones but aren’t too deep into the next safe zone that they would encounter opponents. Not only that, but this Goldilocks Zone allows players to find buildings to explore for loot without worrying about getting caught in crossfires.",
+        "isNative": false,
+		"background": "#B6B6B4"
+      },
+      {
+        "title": "Familiarize With Characters And Their Skills",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Characters-in-Garena-Free-Fire.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Players who start a Free Fire match can choose a character to use before entering battle, carrying with them that character’s base appearance and skillset. It’s important for players to pay attention to their chosen character’s ability as this can change the way they can approach the match. For instance, Kelly is the game’s speedster that has the Dash ability, allowing her to sprint faster and therefore encouraging more dangerous plays. Meanwhile, Alvaro has the Art Of Demolition ability that improves the damage and range of explosives, which incentivizes using grenades and other throwables. Understanding how each character can provide certain advantages to perks to combat.",
+        "isNative": false,
+		"background": "#B6B6B4"
+      },
+      {
+        "title": "Switch Locations All The Time",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Players-crouching-in-Garena-Free-Fire.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "While it’s perfectly safe to camp out until the battle ends in a battle royale, it’s much better to keep on switching locations to avoid unnecessary conflicts in the game. Thankfully, all areas in Free Fire have a selection of houses, buildings, and structures that can generally serve as safe zones for players who want to survey the surroundings. As a general rule, players should stay in an area for a half-minute at best before going elsewhere. This should be more than enough time for them to find loot, recover health, and even reload their weapons for another firefight. Staying too long in a location can leave them open to ambushes from other teams, especially when other teams have an aggressive approach in combat compared to others.",
+        "isNative": false,
+		"background": "#B6B6B4"
+      },
+      {
+        "title": "Loot Kind Is Irrelevant In The Early Game",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Looting-in-Garena-Free-Fire.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "When players land for the first time in a match, they’re likely going to scour the environment for their favorite weapon combination to dominate the early game. This is a wrong mentality, as trying to find a specific weapon type in a huge game world is likely to land players in trouble. Instead, players should try training in all weapon types so they can adapt to whatever weapon they see on the ground.   Remember, the early stages of the match are important as players can only get better loot if they have the firepower to secure buildings, loot crates, and bodies of dead opponents. Players in the early game should adapt to the weapons they see first and then only search for their favored weapons after the first few minutes of roaming.",
+        "isNative": false,
+		"background": "#B6B6B4"
+      },
+      {
+        "title": "Engage In The Shrink Zone",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/The-Game-Map-in-Garena-Free-Fire.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "As with other battle royales with danger zones, Free Fire has a shrink zone that damages opponents the longer they stay there. Of course, it’s natural for players to prioritize getting out of the shrink zone first and head to safety instead of engaging other opponents they see there. Interestingly, players might want to use this to their advantage, as half the time their targets in the shrink zone will have to think about whether to fight back or risk dying.     To do this, players who play a bit aggressive might want to try and stay just a bit ahead of the shrink zone so they don’t necessarily stay inside it but remain close enough to spot those just trying to get out. Players can then block the path of those trying to exit the shrink path by shooting at them, at which point the enemies will either have to stop and fight back or retreat. It’s always an option for players to chase them a bit inside the zone, as their enemies will likely be at an HP disadvantage anyway. However, if players end up getting half-life but not killing their enemies, it may be best to stop using this strategy for now.",
+        "isNative": false,
+		"background": "#B6B6B4"
+      }
+    ]
+
+  }
+}
